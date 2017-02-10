@@ -24,3 +24,8 @@ Node *mlist::remove(const size_t index) {
     deleted->next = nullptr;
     return deleted;
 }
+
+void mlist::sort() {
+
+}
+
