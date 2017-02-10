@@ -17,6 +17,7 @@ class mlist {
 public:
     void insert(Node* node, const std::size_t index = 0);
     Node* remove(const std::size_t index = 0);
+    void sort();
 };
 
 
