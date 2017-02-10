@@ -11,11 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b40f3bec-87f8-4b3a-b9ba-bcc463ca74e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mlist.cpp" afterPath="$PROJECT_DIR$/mlist.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mlist.h" afterPath="$PROJECT_DIR$/mlist.h" />
-    </list>
+    <list default="true" id="b40f3bec-87f8-4b3a-b9ba-bcc463ca74e3" name="Default" comment="" />
     <ignored path="list.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +93,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="398" />
+    <option name="x" value="399" />
     <option name="y" value="250" />
     <option name="width" value="1363" />
     <option name="height" value="1100" />
@@ -185,7 +181,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="398" y="250" width="1363" height="1100" extended-state="0" />
+    <frame x="399" y="250" width="1363" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981631" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
