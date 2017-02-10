@@ -56,8 +56,13 @@
       <file leaf-file-name="mlist.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mlist.cpp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="558">
               <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+=======
+            <state relative-caret-position="450">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+>>>>>>> master
               <folding />
             </state>
           </provider>
@@ -66,8 +71,13 @@
       <file leaf-file-name="mlist.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mlist.h">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="342">
               <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+=======
+            <state relative-caret-position="324">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+>>>>>>> master
               <folding />
             </state>
           </provider>
@@ -347,6 +357,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -415,5 +426,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> master
   </component>
 </project>
